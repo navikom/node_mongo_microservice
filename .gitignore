@@ -1,0 +1,34 @@
+#
+# Ignores for Mac OS
+#
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Icon must ends with two \r.
+Icon
+
+
+# Thumbnails
+._*
+
+#
+# Ignores for Windows OS
+#
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+#
+# Project specific files
+#
+config/config.js
+node_modules/
+yarn.lock
+.env
